@@ -1,0 +1,15 @@
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/bin/Debug/net7.0/dotNetConsoleAppDemo
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/bin/Debug/net7.0/dotNetConsoleAppDemo.deps.json
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/bin/Debug/net7.0/dotNetConsoleAppDemo.runtimeconfig.json
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/bin/Debug/net7.0/dotNetConsoleAppDemo.dll
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/bin/Debug/net7.0/dotNetConsoleAppDemo.pdb
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.csproj.AssemblyReference.cache
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.AssemblyInfoInputs.cache
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.AssemblyInfo.cs
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.dll
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/refint/dotNetConsoleAppDemo.dll
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.pdb
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/dotNetConsoleAppDemo.genruntimeconfig.cache
+/Users/chacs/Documents/code/private/dotNetConsoleAppDemo/obj/Debug/net7.0/ref/dotNetConsoleAppDemo.dll
